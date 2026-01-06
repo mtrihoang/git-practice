@@ -5,3 +5,5 @@ Rook
 Queen
 Bishop
 Knight
+Chess player 1
+Chess player 2
