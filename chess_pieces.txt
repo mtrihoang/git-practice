@@ -1,7 +1,7 @@
 Pawn
 King
 Rook
-(main)
+(test)
 Queen
 Bishop
 Knight
